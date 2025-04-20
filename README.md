@@ -11,7 +11,7 @@
       <h3> 
             🌟 HASAN GÖKHAN MERCAN - 190542003 🌟
           <br/><br/>
-            🔢 YAZILIM MÜHENDİSLİĞİ GÜNCEL KONULAR Dersi İçin Geliştirilen Mobil Uygulama 🔢
+            🔢 Yazılım Mühendisliği Güncel Konular Dersi İçin Geliştirilen Mobil Uygulama 🔢
             <br/> 
       </h3>
 </div>
