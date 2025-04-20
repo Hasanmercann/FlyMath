@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="54dp"
+    android:height="54dp"
+    android:viewportWidth="180"
+    android:viewportHeight="180">
+
+    <path
+        android:fillColor="#346da6"
+        android:fillType="evenOdd"
+        android:pathData="M90,90m-90,0a90,90 0,1 1,180 0a90,90 0,1 1,-180 0" />
+
+    <path
+        android:fillColor="#ffffff"
+        android:fillType="evenOdd"
+        android:pathData="M37.22,17.09 L90,69.88l52.78,-52.78a90.52,90.52 0,0 1,20.13 20.13L110.13,90l52.78,52.78a90.52,90.52 0,0 1,-20.13 20.13L90,110.13l-52.78,52.78a90.52,90.52 0,0 1,-20.13 -20.13L69.88,90 17.09,37.22a90.52,90.52 0,0 1,20.13 -20.13z" />
+
+    <path
+        android:fillColor="#ca4638"
+        android:fillType="evenOdd"
+        android:pathData="M161.14,145.14 L114.92,98H99.3l54.55,55.43a90.51,90.51 0,0 0,7.28 -8.29zM34.73,161.04 L96,99H80l-53.8,54.48a90.52,90.52 0,0 0,8.53 7.56zM153.74,26.47 L102.5,78.13H88l58.06,-58.53a90.52,90.52 0,0 1,7.68 6.87zM18.95,34.75 L59.04,75h15.73L26.32,26.4a90.51,90.51 0,0 0,-7.37 8.35z" />
+
+    <path
+        android:fillColor="#ffffff"
+        android:fillType="evenOdd"
+        android:pathData="M70,2.23V70H2.23C0.77,76.43 0,83.13 0,90s0.77,13.57 2.23,20H70v67.77c6.43,1.46 13.13,2.23 20,2.23s13.57,-0.77 20,-2.23V110h67.77c1.46,-6.43 2.23,-13.13 2.23,-20s-0.77,-13.57 -2.23,-20H110V2.23C103.57,0.77 96.87,0 90,0S76.43,0.77 70,2.23z" />
+
+    <path
+        android:fillColor="#ca4638"
+        android:fillType="evenOdd"
+        android:pathData="M75,1.24V75H1.24C0.43,79.88 0,84.89 0,90s0.43,10.12 1.24,15H75v73.76c4.88,0.82 9.89,1.24 15,1.24s10.12,-0.43 15,-1.24V105h73.76c0.82,-4.88 1.24,-9.89 1.24,-15s-0.43,-10.12 -1.24,-15H105V1.24C100.12,0.43 95.11,0 90,0S79.88,0.43 75,1.24z" />
+
+    <path
+        android:fillColor="#20000000"
+        android:pathData="M172.05,127.04C157.93,158.27 126.5,180 90,180c-49.71,0 -90,-40.29 -90,-90 0,-26.63 11.57,-50.56 29.95,-67.04C24.84,34.26 22,46.8 22,60c0,49.71 40.29,90 90,90 23.07,0 44.12,-8.68 60.05,-22.96z" />
+
+</vector>
