@@ -83,6 +83,11 @@ FlyMath, 5-12 yaş arası çocuklara matematik öğretmeyi hedefleyen, artırıl
 
 <br/> 
 
+### Demo Önizleme 🎬
+https://github.com/user-attachments/assets/d8109e77-c868-49cd-98ea-068f3141029d
+
+<br/> 
+
 ### Kullanılan Teknolojiler 🛠
 - 📊 Veri Yönetimi : Firebase Realtime Database, kullanıcı ilerlemesi ve verilerin gerçek zamanlı senkronizasyonu için; Firebase Storage, 3D modellerin depolanması ve yönetilmesi için kullanıldı.
 - 💻 Geliştirme Ortamı : Android Studio, Kotlin ile uygulama geliştirme.
