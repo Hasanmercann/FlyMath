@@ -36,8 +36,11 @@ FlyMath, 5-12 yaş arası çocuklara matematik öğretmeyi hedefleyen, artırıl
 
 ### 3. Hafta
 - ✅ Proje Android Studio'da Başlatıldı ve Repoya Yüklendi : [GitHub Linki](https://github.com/Hasanmercann/FlyMath.git)
-- ✅ Gereksinim Analizi Dokümanı : [Pdf Linki](https://github.com/user-attachments/files/19822848/Gereksinim.Analizi.pdf)
+- ✅ Gereksinim Analizi Dokümanı : [Pdf Linki](https://github.com/user-attachments/files/19824650/FlyMath.Gereksinim.Analizi.pdf)
 - ✅ SWOT Analizi : [Linki](https://github.com/user-attachments/assets/5cf8fa21-f141-4569-a20d-a9e0c89cc545)
+- ✅ Uml Use Case Diagramı : [Linki](https://github.com/user-attachments/assets/b0a03597-b1b3-460a-8e76-6337a2f8fc31)
+- ✅ Class Diagramı : [Linki](https://github.com/user-attachments/assets/cf845752-b7c1-4a92-be7b-f4d6d29fcf95)
+
 
 ### 4. Hafta
 - ✅ Web Sayfası Oluşturuldu : [FlyMath Web Sitesi](https://hasanmercann.github.io/FlyMath_Site/)
