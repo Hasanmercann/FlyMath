@@ -66,15 +66,15 @@ FlyMath, 5-12 yaş arası çocuklara matematik öğretmeyi hedefleyen, artırıl
 
 ### Mobil Uygulama Önizleme 📱
 
-| <img src="https://github.com/user-attachments/assets/7adfbf06-95e9-451b-a952-0cb2e8410e84" width="250"/>| <img src="https://github.com/user-attachments/assets/f5bd1d0a-7a40-407c-9bd4-fd85b206cfca" width="250"/> | <img src="https://github.com/user-attachments/assets/3c5ef964-5822-4be7-af32-1cd1b7a14051" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/f0931897-0dbf-49d1-9cd8-20231c3543fa" width="250"/>| <img src="https://github.com/user-attachments/assets/730ba08f-d18d-4f95-b2f5-08a8a8b04502" width="250"/> | <img src="https://github.com/user-attachments/assets/46974713-6018-4984-94d3-327d69550d1c" width="250"/> |
 | :-------------: | :-------------:  | :-------------:  |
 |     Launch Screen     |     Sign-In Interface     |     Registration Portal      |
 
-| <img src="https://github.com/user-attachments/assets/c2dc26f5-39e2-4614-a914-57f38f8742e4" width="250"/>| <img src="https://github.com/user-attachments/assets/4195112f-76fe-4ee7-b0a2-134085013e57" width="250"/> | <img src="https://github.com/user-attachments/assets/ed12c037-98a0-43f7-88e1-67fc0fe3b118" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/58e126d5-1ea9-4509-9534-29727fe55afc" width="250"/>| <img src="https://github.com/user-attachments/assets/f4433717-7ff9-4f79-ae01-42ffb620dc3e" width="250"/> | <img src="https://github.com/user-attachments/assets/93659a5c-f13f-4bd8-8dda-1d1e1d82eb5b" width="250"/> |
 | :-------------: | :-------------:  | :-------------:  |
 |     Password Recovery Module     |     Easy Level Interface     |     Pre-Game Configuration     |
 
-| <img src="https://github.com/user-attachments/assets/310593c6-d044-48ed-a83d-04c85dd3873d" width="250"/>| <img src="https://github.com/user-attachments/assets/a845209a-b8a7-4e8d-ad2b-cae03c41d8ed" width="250"/> | <img src="https://github.com/user-attachments/assets/3d47d550-b2c9-481e-a220-dd81f475d351" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/26856983-4501-4d26-93e2-7d8cad2027ef" width="250"/>| <img src="https://github.com/user-attachments/assets/a248d189-8025-42e6-9834-9f07735437f1" width="250"/> | <img src="https://github.com/user-attachments/assets/c9b1f50e-8da9-44c3-b04e-d6f12e280ae9" width="250"/> |
 | :-------------: | :-------------:  | :-------------:  |
 |     Victory Summary Screen     |     User Profile Dashboard     |     Language Preferences Modal     |
 
