@@ -40,7 +40,7 @@ FlyMath, 5-12 yaş arası çocuklara matematik öğretmeyi hedefleyen, artırıl
 - ✅ SWOT Analizi : [Linki](https://github.com/user-attachments/assets/5cf8fa21-f141-4569-a20d-a9e0c89cc545)
 
 ### 4. Hafta
-- ✅ Web Sayfası Oluşturuldu : [FlyMath Web Sitesi](https://achelmasoudi.github.io/FlyMath_WebSite/)
+- ✅ Web Sayfası Oluşturuldu : [FlyMath Web Sitesi](https://hasanmercann.github.io/FlyMath_Site/)
 - ✅ Kullanıcı arayüzleri (frontend).
 
 ### 5. Hafta
